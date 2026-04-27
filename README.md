@@ -57,4 +57,4 @@ Support performance evaluation and strategy planning
 
 ### Dashboard Preview
 
-![Sales Dashboard](https://github.com/abhay03purohit/Sales-Performance-Dashboard/blob/main/Dashboard%20Screenshot.png)
+![](https://github.com/abhay03purohit/Sales-Performance-Dashboard/blob/main/Dashboard%20Screenshot.png)
